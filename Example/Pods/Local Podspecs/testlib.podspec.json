@@ -1,0 +1,22 @@
+{
+  "name": "testlib",
+  "version": "0.1.0",
+  "summary": "A short description of testlib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Thanapat Sorralump/testlib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Thanapat Sorralump": "thanapat423@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Thanapat Sorralump/testlib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "testlib/Classes/**/*"
+}
