@@ -1,6 +1,6 @@
 # testlib
 
-[![CI Status](https://img.shields.io/travis/Thanapat Sorralump/testlib.svg?style=flat)](https://travis-ci.org/Thanapat Sorralump/testlib)
+[![CI Status](https://img.shields.io/travis/camp191/testlib.svg?style=flat)](https://travis-ci.org/camp191/testlib)
 [![Version](https://img.shields.io/cocoapods/v/testlib.svg?style=flat)](https://cocoapods.org/pods/testlib)
 [![License](https://img.shields.io/cocoapods/l/testlib.svg?style=flat)](https://cocoapods.org/pods/testlib)
 [![Platform](https://img.shields.io/cocoapods/p/testlib.svg?style=flat)](https://cocoapods.org/pods/testlib)
