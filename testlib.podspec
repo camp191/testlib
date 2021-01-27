@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'testlib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of testlib.'
+  s.summary          = 'Swipe right to pop the current View Controller'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,18 +17,17 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Swipe right anywhere in View Controller to pop it out!'
 
-  s.homepage         = 'https://github.com/Thanapat Sorralump/testlib'
+  s.homepage         = 'https://github.com/camp191/testlib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Thanapat Sorralump' => 'thanapat423@gmail.com' }
-  s.source           = { :git => 'https://github.com/Thanapat Sorralump/testlib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/camp191/testlib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
+  s.swift_versions = '5.0'
 
   s.source_files = 'testlib/Classes/**/*'
   
