@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'testlib'
+  s.name             = 'testlibopensourcexx'
   s.version          = '0.1.0'
   s.summary          = 'Swipe right to pop the current View Controller'
 
