@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'testlibopensourcexx'
-  s.version          = '0.5.0'
+  s.version          = '0.6.0'
   s.summary          = 'Swipe right to pop the current View Controller'
 
 # This description is used to generate tags and improve search results.
